@@ -18,6 +18,7 @@ public class Home {
 	
 	public void clickOnMyAcct()
 	{
+		System.out.println("Hello bro");
 		myacct.click();
 	}
 }
